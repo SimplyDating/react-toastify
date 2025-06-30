@@ -1,5 +1,9 @@
 # React-Toastify
 
+## Changes made in this fork
+
+- 2025-06-30 - merged [#1235](https://github.com/fkhadra/react-toastify/pull/1235)
+
 [![Financial Contributors on Open Collective](https://opencollective.com/react-toastify/all/badge.svg?label=financial+contributors)](https://opencollective.com/react-toastify) ![React-toastify CI](https://github.com/fkhadra/react-toastify/workflows/React-toastify%20CI/badge.svg)
 ![npm](https://img.shields.io/npm/dm/react-toastify.svg?label=%E2%8F%ACdownloads&style=for-the-badge)
 ![npm](https://img.shields.io/npm/v/react-toastify.svg?style=for-the-badge)
