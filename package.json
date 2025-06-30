@@ -37,7 +37,7 @@
     "trailingComma": "none",
     "arrowParens": "avoid"
   },
-  "name": "react-toastify",
+  "name": "@simplydating/react-toastify",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fkhadra/react-toastify.git"
